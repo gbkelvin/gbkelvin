@@ -34,3 +34,28 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=gbkelvin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+
+<br>
+
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/Faun.Nh0x" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="gbkelvin-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/kelvin-giabao" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="gbkelvin-linkedin" />
+  </a>
+  <a href="mailto:bao.dolehoanggia@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="gbkelvin-email" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/kelvin-quotes.svg" width="846" height="150" alt="gbkelvin-official" />
+</a>
